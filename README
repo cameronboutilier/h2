@@ -1,6 +1,6 @@
-You'll likely have to change the port on the api url in ./spa/api.js
+You'll likely have to change the port on the api url in ./spa/src/api.js
 
-You'll also want to change the connection string inside of ./api/appsettings.json accordingly
+You'll also want to change the connection string inside of ./api/api/appsettings.json accordingly
 
 After you make those changes and create the database you should be able to run the api project and then the spa project. 
 
