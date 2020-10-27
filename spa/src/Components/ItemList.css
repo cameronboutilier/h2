@@ -1,0 +1,35 @@
+/* Just some custom css */
+
+.table{
+    width: 100% !important;
+    table-layout:fixed;
+    align-self: center;
+    background-color: dimgrey;
+    display:block;
+    overflow:auto;
+    margin-bottom: 0px !important;
+    height:400px;
+}
+
+.table td{
+    border-top: 0px !important;
+    width:50%;
+    text-align: left;
+    color: white;
+}
+
+.table th{
+    border-top: 0px !important;
+    width:50%;
+    background-color: #292828;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+}
+
+.categoryRow {
+    background-color: #292828;
+    font-weight: bold;
+    color: #dee2e6;
+}
+
